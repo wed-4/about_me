@@ -5,4 +5,5 @@ Golangとマインクラフトを好むアマチュアプログラマー。
 #宣伝
 日本の自由なマイクラサーバー。外国人も歓迎！
 入りたい方はdiscordサーバーへどうぞ！
+
 https://discord.gg/JekrZBprxE
